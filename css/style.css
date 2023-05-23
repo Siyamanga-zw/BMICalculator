@@ -1,0 +1,48 @@
+.line{
+    display: flex;
+    text-align:center;
+}
+.lineThhree{
+    border: 2px solid black;
+    padding-inline: 3rem;
+    background-color: transparent;
+}
+body{
+    min-height: 100vh;
+    margin-top: 150px;
+}
+
+.container{
+    height:350px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    margin-inline: auto;
+    border-radius: 12px;
+    
+    
+}
+h2{
+    margin-left: 3.5rem;
+}
+.Line{
+    margin-left: 3.5rem;
+}
+label{
+    margin-left: 3.5rem;
+}
+button{
+    margin-left: 3.5rem;
+}
+
+.Line input{
+    border-radius: 12px;
+    height:30px;
+}
+button{
+    border-radius: 12px;
+    height:40px;
+    width: 100px;
+}
